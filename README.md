@@ -1,5 +1,9 @@
 # Machine Learning - Practice
 
+# NLP using spaCy - practice application
+
+comming soon..
+
 # Marathi to English translator using Keras: Practice application
 
 Instructions:
