@@ -18,6 +18,14 @@ Thanks to 'https://machinelearningmastery.com'
 
 Screenshots:
 
+initial.py - Marathi language - output:
+
+![alt text](screenshot/scrn4.png "Screenshot 4")
+
+translater.py - German to english language - output:
+
+![alt text](screenshot/scrn3.png "Screenshot 3")
+
 Comming soon...
 
 
