@@ -18,7 +18,7 @@ Instructions:
 
 Credit:
 
-Thanks to 'https://machinelearningmastery.com'
+Thanks to 'Dr. Jason Brownlee'
 
 Screenshots:
 
